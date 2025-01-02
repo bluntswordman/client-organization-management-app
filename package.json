@@ -16,7 +16,7 @@
     "@tanstack/react-query-devtools": "^5.62.10",
     "@tanstack/react-query-next-experimental": "^5.62.10",
     "axios": "^1.7.9",
-    "d3": "5.15.1",
+    "d3": "7.9.0",
     "d3-org-chart": "^3.1.1",
     "next": "15.1.2",
     "react": "^19.0.0",
